@@ -1,3 +1,4 @@
 {
-  "tempLogo":["logo.svg","sprite"]
+  "tempLogo":["logo.svg","sprite"],
+  "tempSong":["tempBoot.mp3","aud"]
 }
